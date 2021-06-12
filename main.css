@@ -2,3 +2,31 @@
   padding: 0;
   margin: 0;
 }
+
+
+/*Laura*/
+
+footer {
+	background-color: #000;
+	color: #fff;
+}
+
+.margin-uber {
+	margin: 5px;
+}
+
+.margin-h4 {
+	margin-bottom: 20px;
+}
+
+.display-flex {
+	display: flex;
+}
+
+.contenido-alineado {
+	justify-content: space-between;
+}
+
+.list-style {
+	list-style: none;
+}
