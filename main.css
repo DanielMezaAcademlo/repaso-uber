@@ -1,4 +1,11 @@
 * {
-  padding: 0;
-  margin: 0;
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    background-color: black;
+    color: white;
+    display: flex;
+    gap: 2rem;
 }
